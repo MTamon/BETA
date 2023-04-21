@@ -1,2 +1,2 @@
 # BETA
-Basic Early Target of Availability
+Basic Early Targets for Availability
